@@ -1,6 +1,6 @@
-### 👋 Welcome and Hi
+## 👋 Welcome and Hi
 
-## Skills
+### Skills
 - HTML
 - CSS
 - Javascript
