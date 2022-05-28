@@ -7,7 +7,7 @@
 - React
 - VueJS
 
-## Contact Me
+### Contact Me
 :telephone_receiver: (+66)81-934-8853
 :envelope: thanapon160@gmail.com
 
