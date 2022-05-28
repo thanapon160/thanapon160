@@ -1,4 +1,15 @@
-### Hi there 👋
+### 👋 Welcome and Hi
+
+## Skills
+- HTML
+- CSS
+- Javascript
+- React
+- VueJS
+
+## Contact Me
+:telephone_receiver: (+66)81-934-8853
+:envelope: thanapon160@gmail.com
 
 <!--
 **thanapon160/thanapon160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
