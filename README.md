@@ -1,4 +1,7 @@
 ## 👋 Welcome and Hi
+My name is Thanapon Ratanasoponchai (Top).  
+  
+Currently, I'm Junior Frontend Developer and want to learn more programing language.
 
 ### Skills
 - HTML
